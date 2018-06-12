@@ -1,6 +1,16 @@
-What command do you use to setup a git repository inside of your folder? git init
+What command do you use to setup a git repository inside of your folder?  // git init
 What command do you use to ask git to start tracking a file?
-git add .
+ // git add .
 What command do you use to ask git to move your file from the staging area to the repository?
-git commit -m""
+ // git commit -m""
 
+What command do you use to pull any changes from the master repository into your local repository?
+ // git pull
+What command do you use to unstage a file?
+ // git -rm
+What command do you use to change your files back to how they were after a commit?
+// git reset --
+Why is it important to use -- when changing files back to a previous state?
+// to specify which version you want to uncommit
+Why might you want to reset your files back to a previous commit?
+// to undo or modify changes you have performed and already committed.
