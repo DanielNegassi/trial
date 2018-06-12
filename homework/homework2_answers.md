@@ -22,7 +22,15 @@ What command do you use to create a branch?
 What command do you use to use a different branch?
 // git checkout <name>
 Why would you want to use a branch other than the default master?
-// to control changes made to the master, and ensure only valid changes are made to it/
+// to control changes made to the master, and ensure only valid changes are made to it
+
+
+Give an example for when you would use git merge and give an example for when it would be better to submit a pull request to have your branch merged
+// you submit a pull request when you want the repo owner to approve changes you have made.
+you use git merge when you are sure about the changes you've made and dont think you need approval.
+
+What command do you use to send all of the work that you've done locally to your remote repository
+// git add -A
 
 
 
